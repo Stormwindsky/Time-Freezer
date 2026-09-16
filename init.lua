@@ -1,6 +1,6 @@
 -- Mod Name: Time Freezer
 -- Author: Stormwindsky
--- License: CC0 1.0 Universal
+-- License: MIT-0
 -- Description: Freezes the time of day at noon and stops the clock.
 
 minetest.log("action", "[timefreezer] Initializing time freeze...")

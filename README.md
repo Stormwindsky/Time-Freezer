@@ -5,4 +5,4 @@ here the mod for the night i recommanded:
 
 https://github.com/Stormwindsky/Start-at-Night
 
-Free 2 use no need to credit me bc the license of this mod is CC0 1.0 (Public Domain license)
+Free 2 use no need to credit me bc the license of this mod is MIT-0
